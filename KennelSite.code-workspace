@@ -1,0 +1,10 @@
+{
+	"folders": [
+		{
+			"path": "..\\KennelSite"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "index"
+	}
+}
